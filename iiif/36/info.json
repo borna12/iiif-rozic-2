@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 12500,
-  "@id" : "https://retrogram.jezik.hr/gramatike/rozic-2/iiif/36",
+  "@id" : "https://borna12.github.io/iiif-rozic-2/iiif/36",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 22099
 }
