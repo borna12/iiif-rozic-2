@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 4166,
+    "height" : 7595
+  }, {
+    "width" : 6250,
+    "height" : 11392
+  }, {
+    "width" : 12500,
+    "height" : 22785
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 12500,
+  "@id" : "https://retrogram.jezik.hr/gramatike/rozic-2/iiif/24",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 22785
+}
